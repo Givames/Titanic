@@ -1,0 +1,19 @@
+body {
+	 background-image: url(https://elements-video-cover-images-0.imgix.net/files/232036500/332_2.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=0e872562b811ecf2d28ecf7cf9aefa97);
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-attachment: fixed;
+		background-size: 1240px;
+		
+}
+::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+    }
+    ::-webkit-scrollbar-track-piece  {
+    background-color:rgb(21, 21, 47);
+    }
+    ::-webkit-scrollbar-thumb:vertical {
+    height: 30px;
+    background-color: rgb(255, 195, 0);
+    }
